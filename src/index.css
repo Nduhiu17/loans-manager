@@ -1,0 +1,112 @@
+.pcoded-navbar.theme-horizontal~.pcoded-header:not(.headerpos-fixed) {
+    background: #3c1053 !important;
+}
+
+.auth-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    min-width: 100%;
+    min-height: 100vh;
+    background: #3c1053 !important;
+}
+
+#sign-button,#reset-password{
+    background: #3c1053 !important;
+}
+
+
+
+body{
+    background: #3c1053 !important;
+    background-image: url('../src/assets/images/favicon.png') !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center !important; 
+}
+
+
+.pcoded-header.header-blue .dropdown .profile-notification .pro-head {
+    background: #3c1053 !important;
+}
+
+#deactivate-button{
+    margin-left: 12px;
+}
+.card{
+    border: none !important;
+    border-radius: none !important;
+}
+
+#main-logo {
+    height: 45px !important;
+}
+
+.table td, .table th {
+    padding: 0.4rem 0.75rem !important;
+}
+
+
+.nav-tabs .nav-link {
+    background-image: linear-gradient(to top, #3c1053 2px, rgba(255, 255, 255, 0) 2px) !important;
+}
+
+a {
+    color: #3c1053 !important;
+}
+
+.pcoded-navbar.theme-horizontal .pcoded-inner-navbar > li.active:after, .pcoded-navbar.theme-horizontal .pcoded-inner-navbar > li.pcoded-trigger:after {
+    background-color: #3c1053 !important;
+}
+
+.pcoded-main-container {
+    background: #fbb040 !important;
+}
+
+.paginator-wrapper{
+    display: flex;
+    flex-direction: row;
+}
+
+#create-user-group{
+
+
+}
+/*start of user group*/
+.create-role-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+#fafa-deativate{
+    margin-left: 15px;
+}
+
+#fafa-edit{
+    /*margin-left: 43px;*/
+}
+
+.fafa-role-icons{
+    display: flex;
+    justify-content: center;
+}
+
+
+.fa-cog {
+    color:#3c1053;
+}
+
+.fa-edit {
+    color: green;
+}
+
+/*.pcoded-navbar.theme-horizontal ~ .pcoded-main-container {*/
+/*     margin-top:2px !important;*/
+/*}*/
+
+/*end of user group*/

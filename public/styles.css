@@ -1,0 +1,4 @@
+.pcoded-navbar.theme-horizontal~.pcoded-header:not(.headerpos-fixed) {
+    background: #191a1a !important;
+}
+
